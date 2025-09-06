@@ -1,4 +1,4 @@
-# Portfolio de Carlo Alejandro Rodrigues Matamoros
+# Portfolio de Carlo Alejandro Rodriguez Matamoros
 
 Hola, soy **Carlo**, estudiante de Licenciatura en Ciencia de Datos.  
 Me interesa el análisis de datos, automatización y marketing digital.  
